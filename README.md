@@ -1,4 +1,4 @@
-# Tip Calculator</u>**
+# Tip Calculator</u>
 
 #### Buliding a Tip Calculator in XCode to using UIKit with options of splitting the tip.
 
